@@ -1,0 +1,2 @@
+# Magyar.inc
+Játék 
